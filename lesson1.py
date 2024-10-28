@@ -1,0 +1,5 @@
+print("Hello, Python How are you?")
+print(10+11)
+print("10+11")
+print(10, 11, 22)
+print("Tom", "Juma", "Mike")
